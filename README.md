@@ -27,6 +27,7 @@ Abre el proyecto en IntelliJ IDEA.
 Verifica que los archivos .txt estén correctamente ubicados.
 Ejecuta el archivo Main.java desde el paquete app.
 Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+VIDEO EXPLICATIVO: https://drive.google.com/file/d/1q9iH2nNWpj6g7V0MmzvVj1HvjvQrFqUI/view?usp=drive_link
 Repositorio GitHub: (https://github.com/jalcaino94/LlanquihueTour.git) Fecha de entrega: [07/06/2026]
 
                  
