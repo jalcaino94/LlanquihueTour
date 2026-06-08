@@ -1,3 +1,5 @@
+<img width="488" height="157" alt="image" src="https://github.com/user-attachments/assets/f0107a60-4310-4610-bb88-db3de22acc8e" />
+
 # Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
