@@ -19,3 +19,14 @@ Proyecto académico en Java que digitaliza la gestión de la agencia de turismo 
                  # - Persona.java (Clase Base)
                  # - Empleado.java (Clase Heredada)
                  # - Direccion.java (Clase de Composición)
+
+⚙️ Instrucciones para clonar y ejecutar el proyecto
+Clona el repositorio desde GitHub:
+git clone [https://github.com/usuario/repositorio-evaluacion-final.git](https://github.com/jalcaino94/LlanquihueTour.git)
+Abre el proyecto en IntelliJ IDEA.
+Verifica que los archivos .txt estén correctamente ubicados.
+Ejecuta el archivo Main.java desde el paquete app.
+Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+Repositorio GitHub: (https://github.com/jalcaino94/LlanquihueTour.git) Fecha de entrega: [07/06/2026]
+
+                 
